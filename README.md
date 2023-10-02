@@ -1,8 +1,6 @@
-[![CircleCI](https://circleci.com/gh/BedwarsRel/BedwarsRel.svg?style=shield)](https://circleci.com/gh/BedwarsRel/BedwarsRel)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/df02ec6676b8457aa7fcb4be1ba44729)](https://www.codacy.com/app/BedwarsRel/BedwarsRel)
-[![Gitter](https://badges.gitter.im/BedwarsRel/BedwarsRel.svg)](https://gitter.im/BedwarsRel/BedwarsRel)
 
-# BedwarsRel - Minecraft Bedwars Plugin
+
+# BedWarEnchanced - Minecraft Bedwars Plugin
 ![](https://github.com/BedwarsRel/BedwarsRel/blob/master/logo.png)
 
 Bedwars is a [Minecraft](http://www.minecraft.net) minigame where teams (max. 15) try to destroy the other teams' beds. But there is more: On the whole map there are ressource spawners spawning items. Some items are more worth than others and with these you can buy different things in the so called "Villager Shop". You will find powerful weapons or potions or simple blocks to get to the other bases. Get to the others bases? Yes, every team starts on an island and you have to get to the others with blocks which you can buy in the "Villager Shop". When you meet a enemy you have to try to kill him so he'll lose all the equipment which he had in his inventory. As soon as a team's bed is destroyed they cannot respawn again and last team standing wins.
